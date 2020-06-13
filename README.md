@@ -1,2 +1,0 @@
-# rpsls
-rpsls game
